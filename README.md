@@ -11,6 +11,7 @@ Criando uma APP de cadastro em memória
 
 ### Nota
 CRUD é um acrônimo para as maneiras de se operar em informação armazenada.
+
 ● Create / Criar
 ● Read / Ler
 ● Update / Atualizar
